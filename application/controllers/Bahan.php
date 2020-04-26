@@ -20,7 +20,7 @@ class Bahan extends CI_Controller
         if ($q <> '') {
             $config['base_url'] = base_url() . 'bahan/index.html?q=' . urlencode($q);
             $config['first_url'] = base_url() . 'bahan/index.html?q=' . urlencode($q);
-        } else {
+        } else { 
             $config['base_url'] = base_url() . 'bahan/index.html';
             $config['first_url'] = base_url() . 'bahan/index.html';
         }
