@@ -1,0 +1,182 @@
+<style type="text/css">
+  @page{margin:0.5cm;}
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg .tg-zv4m{
+    padding-left:10px;
+}
+.tg .tg-15{
+    padding-left:15px;
+}
+/* .tg td{font-family:Arial, sans-serif;font-size:14px;padding:0px 1px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:0px 1px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;} */
+.tg .tg-op59{font-weight:bold;text-decoration:underline;font-size:12px;color:#000000;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-3spw{font-size:12px;color:#000000;border-color:#ffffff;text-align:left;vertical-align:top;width: 180px;padding-left: 10px;}
+.tg .tg-2{font-size:12px;color:#000000;border-color:#ffffff;text-align:left;vertical-align:top;width: 50px;padding-right: 15px;}
+.tg .tg-002f{font-size:15px;color:#000000;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-16kt{font-size:20px;color:#000000;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-z6sj{text-decoration:underline;font-size:13px;color:#000000;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-ikqu{color:#000000;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-3pyi{font-size:12px;color:#000000;border-color:#ffffff;text-align:center;vertical-align:top;width: 3px;}
+.tg .tg-us33{font-size:12px;color:#000000;border-color:#ffffff;text-align:right;vertical-align:top}
+#outtable{
+      
+      border:1px solid black;
+      position:absolute; 
+      padding-left:1px;
+    }
+</style>
+<div  id="outtable">
+    <table class="tg" style=" undefined;table-layout: fixed; width: 505px">
+    <colgroup>
+        <col style="width: 160">
+        <col style="width: 5px">
+        <col style="width: 5px">
+        <col style="width: 5px">
+    </colgroup>
+    <tr>
+        <th class="tg-002f" colspan="4">KOPERASI UNIT DESA</th>
+    </tr>
+    <tr>
+        <td class="tg-16kt" colspan="4">"TANI LUHUR"</td>
+    </tr>
+    <tr>
+        <td class="tg-002f" colspan="4">KUD TANI LUHUR KASEMBON</td>
+    </tr>
+    <tr>
+        <td class="tg-z6sj" colspan="4">BADAN HUKUM No. 4515/BH./II/1980</td>
+    </tr>
+    <tr>
+        <td class="tg-002f" colspan="4">No. Telp. (0341) 327626</td>
+    </tr>
+    <tr>
+        <td class="tg-ikqu" colspan="4">&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="tg-op59" colspan="4">PERMOHONAN PINJAMAN</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">NAMA</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw" colspan="2">sa</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">ALAMAT</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw" colspan="2">asa</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">NOMOR ANGGOTA</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw" colspan="2">123</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">BESARNYA PERMOHONAN</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw">Rp</td>
+        <td class="tg-ikqu">4500000</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">JAMINAN</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw" colspan="2">BPKB/ MOTOR / MOBIL</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">NOMOR POL</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw" colspan="2"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">SANGGUP MENGANGSUR</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw"></td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">DISETUJUI SEBESAR</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw">Rp</td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">POTONGAN ADMINISTRASI</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw">Rp</td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">PELUNASAN</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw">Rp</td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">LAIN-LAIN</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw">Rp</td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw" colspan="4"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">YANG DITERIMA</td>
+        <td class="tg-3pyi">:</td>
+        <td class="tg-3spw">Rp</td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw" colspan="4"></td>
+    </tr>
+    <tr>
+        <td class="tg-3spw" colspan="4">SANGGUP MENAATI PERATURAN-PERATURAN KUD/KOPERASI</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw"></td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3spw"></td>
+        <td class="tg-3spw"></td>
+    </tr>
+    <tr>
+        <td class="tg-2"></td>
+        <td class="tg-2"></td>
+        <td class="tg-2" colspan="2" style="text-align: right;">Kasembon, 21 Sept 2020</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw"></td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3spw"></td>
+        <td class="tg-3pyi">KEPALA BAGIAN</td>
+    </tr>
+    <tr>
+        <td class="tg-3pyi">PEMINJAM</td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3pyi">Simpan Pinjam</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">&nbsp;</td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3spw"></td>
+        <td class="tg-3spw">&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">&nbsp;</td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3spw"></td>
+        <td class="tg-3spw">&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="tg-3spw">&nbsp;</td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3spw"></td>
+        <td class="tg-3spw">&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="tg-3pyi">SUPONO</td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3pyi"></td>
+        <td class="tg-3pyi">YULIS</td>
+    </tr>
+    </table>
+</div>
