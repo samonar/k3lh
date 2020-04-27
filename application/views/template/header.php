@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>KUD Tani Luhur</title>
+  <title>SIM K3</title>
   <link rel="shortcut icon" sizes="16x16" href="<?=base_url('assets/dist/img/sma1.jpg');?>">
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">

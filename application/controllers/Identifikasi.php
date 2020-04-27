@@ -241,7 +241,7 @@ class Identifikasi extends CI_Controller
         $data=array(
             'title'     => 'Penilaian Parameter Bahaya',
             'active'    => '',
-            'active_header' => 'identifikasi',
+            'active_header' => 'eval',
             'bahaya_pilih' => $bahaya_pilih,
             'bagian' => $bagian,
             'id_proyek' => $id,

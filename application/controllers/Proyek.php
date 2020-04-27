@@ -76,7 +76,7 @@ class Proyek extends CI_Controller
 
             $this->Proyek_model->insert($data);
             $this->session->set_flashdata('message', 'Create Record Success');
-            redirect(site_url('proyek/identifikasi'));
+            redirect(site_url('proyek'));
         }
     }
     
@@ -86,14 +86,17 @@ class Proyek extends CI_Controller
 
         if ($row) {
             $data = array(
+                'title'     => 'Daftar Proyek ',
+            'active'    => '',
+            'active_header' => 'proyek',
                 'button' => 'Update',
                 'action' => site_url('proyek/update_action'),
-		'id' => set_value('id', $row->id),
+		'id' => set_value('id', $row->id_proyek),
 		'nm_proyek' => set_value('nm_proyek', $row->nm_proyek),
 		'alamat' => set_value('alamat', $row->alamat),
 		'tgl' => set_value('tgl', $row->tgl),
 	    );
-            $this->load->view('proyek/proyek_form', $data);
+            $this->template->display('proyek/proyek_form', $data);
         } else {
             $this->session->set_flashdata('message', 'Record Not Found');
             redirect(site_url('proyek'));

@@ -36,7 +36,7 @@
                         <div class="col-sm-6 col-sm-offset-3 form-box">
                             <div class="form-top">
                                 <div class="form-top-left">
-                                    <h3>LOGIN SISTEM KUD</h3>
+                                    <h3>LOGIN SIM K3</h3>
                                     <p>Masukkan username dan password</p>
                                 </div>
                                 <div class="form-top-right">
